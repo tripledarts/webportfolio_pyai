@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+json
+re
+plotly.graph_objects
