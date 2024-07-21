@@ -1,5 +1,4 @@
 streamlit
 google-generativeai
-json
 re
 plotly
