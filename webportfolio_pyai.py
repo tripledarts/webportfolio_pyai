@@ -753,9 +753,9 @@ with tab4:
     with col4:
         st.image("images/golden.JPG", caption="Golden glow")
         st.image("images/cloud.JPG", caption="What do you see?")
-    # st.subheader("")
-    # st.write("For a walkthrough of this portfolio, check my video:")
-    # st.video("https://www.youtube.com/channel/UCH44tvxOMTTa9-KJVB_KUDA")
+    st.subheader("")
+    st.write("For a walkthrough of this portfolio, check my video:")
+    st.video("https://youtu.be/qtDr4N_35Es")
 
 
 
