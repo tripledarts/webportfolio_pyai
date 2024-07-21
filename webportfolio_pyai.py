@@ -753,9 +753,6 @@ with tab4:
     with col4:
         st.image("images/golden.JPG", caption="Golden glow")
         st.image("images/cloud.JPG", caption="What do you see?")
-    st.subheader("")
-    st.write("For a walkthrough of this portfolio, check my video:")
-    st.video("https://youtu.be/qtDr4N_35Es")
 
 
 
@@ -772,6 +769,9 @@ st.write("3. Leveraged Google Gemini to formalise a structure for the output")
 st.write("4. Beautified the website after reading Streamlit's documentation")
 st.write("5. Refactored my code")
 st.write("6. Deployed my project on [GitHub](https://github.com/tripledarts) & Streamlit.io")
+st.write("7. For a walkthrough of this portfolio, check my video:")
+st.video("https://youtu.be/qtDr4N_35Es")
+
 st.markdown('</div>', unsafe_allow_html=True)
 
 # st.subheader("Inspiration")
